@@ -1,4 +1,4 @@
-#bootcamp
+#WEB DEV SMALL PROJECT
 Hi I made this project during the 7 days bootcamp.
 </b>
 I got to learn a lot during these 7 days.
